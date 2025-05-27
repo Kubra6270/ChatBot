@@ -160,7 +160,7 @@ class Chatbot:
                 print("Invalid choice. Please try again.")
 
 if __name__ == "__main__":
-    API_KEY = "AIzaSyCMW2Zb5FhAG1CxngMrmtvRyuWTDE9ET70"
+    API_KEY = "YOUR_API_KEY"
 
     if API_KEY == "YOUR_GEMINI_API_KEY" or not API_KEY:
         print("⚠️ Please replace 'YOUR_GEMINI_API_KEY' with your actual Gemini API key.")
